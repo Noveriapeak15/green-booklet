@@ -2,8 +2,10 @@
 title: Nature borne, Nature bound, Cageless
 ---
 
-title: "First breath"
+"First breath"
 date: January 4th 2026
 
-The first breath, is often the freshest, whether I emerge from the noise and pollution of the city to the headtrails of a mountain, or whether I emerge from ice cold waters to dense pine forests up-ahead.
+The first breath is often the freshest. The first inhale as you reach the opening of a headtrail, leading up to distant mountains, away from the noise and pollution of the city. The moment of emergence from icy waters and the first exhale of vapour across ice sheets where a dense forest stands in watch up-ahead.
 
+
+![DSC07354](https://github.com/user-attachments/assets/ccf01f13-5f3c-4265-9d6b-2f15e980922c)
